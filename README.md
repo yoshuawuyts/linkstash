@@ -83,6 +83,9 @@ links.get();
 // }
 ```
 
+## See also
+- [burl][burl]
+
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
 
@@ -94,3 +97,5 @@ links.get();
 [coveralls-url]: https://coveralls.io/r/yoshuawuyts/linkstash?branch=master
 [downloads-image]: http://img.shields.io/npm/dm/linkstash.svg?style=flat-square
 [downloads-url]: https://npmjs.org/package/linkstash
+
+[burl]: https://github.com/yoshuawuyts/burl
