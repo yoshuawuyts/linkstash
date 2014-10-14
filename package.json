@@ -1,6 +1,6 @@
 {
   "name": "linkstash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Save hal-json _link properties and retrieve the latest link in a set.",
   "main": "index.js",
   "scripts": {
